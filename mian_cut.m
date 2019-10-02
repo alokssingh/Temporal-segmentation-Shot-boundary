@@ -12,7 +12,7 @@ nb = (c*c)/(b*b);
 temp_his =  similar_blk(I,c,b,mapping);        % for old  similar_blk(I,c,b,mapping)                         %0.62; have to 
 a = [];
 dis=[]; 
- %%                   LBP-HF
+ %%        %%                  Stage1 Using LBP-HF   
 for k = 2:frame
     k
     p = 0;
@@ -21,9 +21,9 @@ for k = 2:frame
     for i = 1 :nb
         histograms(1,:) = temp_his(i,:);
         histograms(2,:) = his2(i,:);
-        l = constructhf(histograms,mapping);
+        l = constructhf(histograms,mapping);  %%Feature extraction
         l = l';
-        p = p+sqrt(sum((l(:,1) - l(:,2)).^2));
+        p = p+sqrt(sum((l(:,1) - l(:,2)).^2));%% Finding disimilarity between consecutive frames
     end
     temp_his = his2;
     a = [a;p];

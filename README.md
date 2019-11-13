@@ -12,3 +12,12 @@ Bolckwise LBP-HF is used for finding dissimilarity difference between consecutiv
 Second stage
 
 Blockwise canny edge difference between the corresponding blocks of consecutive frame is calculated and this stage is used as confirmation stage.
+
+
+
+
+
+
+If you are using our algorithm, please consider citing the following paper:
+
+Singh, A., Thounaojam, D.M. & Chakraborty, S. SIViP (2019). https://doi.org/10.1007/s11760-019-01593-3

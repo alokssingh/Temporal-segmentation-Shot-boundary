@@ -1,6 +1,11 @@
-# A-Novel-Automatic-Shot-Boundary-Detection-Algorithm-Robust-to-Illumination-and-Motion-Effect
+# A Novel Automatic Shot Boundary Detection Algorithm Robust to Illumination and Motion Effect
 A novel method for SBD using LBP-HF and Canny edge difference
 
+Key features of the proposed approach
+1. Illumination invariant 
+2. Invariant to certain amount of motion effect
+3. Use of adaptive wiener filtere in preprocessing
+4. Rotation invariant
 
 
 This system is divided into a two stages as described in a paper A Novel Automatic Shot Boundary Detection Algorithm Robust to : Illumination and Motion Effect.

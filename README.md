@@ -30,5 +30,5 @@ If you are using our algorithm, please consider citing the following papers:
 
 Acknowledgements :
 1. https://in.mathworks.com/
-2. <a>https://in.mathworks.com/help/vision/ref/extractlbpfeatures.html</a> [MATLAB LBP]
+2. <a>https://in.mathworks.com/help/vision/ref/extractlbpfeatures.html</a> 
 3. https://trecvid.nist.gov/

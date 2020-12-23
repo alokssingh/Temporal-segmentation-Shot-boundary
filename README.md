@@ -27,3 +27,6 @@ If you are using our algorithm, please consider citing the following papers:
 1. **Singh, Alok**, Dalton Meitei Thounaojam, and Saptarshi Chakraborty. "**A novel automatic shot boundary detection algorithm: robust to illumination and motion effect.**" Signal, Image and Video Processing (2019): 1-9.
 
 2. **Singh, Alok**, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "**NITS-VC System for VATEX Video Captioning Challenge 2020**." arXiv preprint arXiv:2006.04058 (2020).
+
+Thanks to:
+1. <a>https://in.mathworks.com/help/vision/ref/extractlbpfeatures.html</> [MATLAB LBP]

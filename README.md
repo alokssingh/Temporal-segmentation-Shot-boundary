@@ -28,6 +28,7 @@ If you are using our algorithm, please consider citing the following papers:
 
 2. **Singh, Alok**, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "**NITS-VC System for VATEX Video Captioning Challenge 2020**." arXiv preprint arXiv:2006.04058 (2020).
 
-Acknowledgement :
+Acknowledgements :
 1. https://in.mathworks.com/
 2. <a>https://in.mathworks.com/help/vision/ref/extractlbpfeatures.html</a> [MATLAB LBP]
+3. https://trecvid.nist.gov/

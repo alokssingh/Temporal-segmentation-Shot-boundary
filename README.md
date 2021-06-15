@@ -29,7 +29,6 @@ If you are using our algorithm, please consider citing the following papers:
 
 2. Chakraborty, Saptarshi, **Alok Singh**, and Dalton Meitei Thounaojam. "**A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination**." The Visual Computer (2021): 1-12.
 
-3. **Singh, Alok**, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "**NITS-VC System for VATEX Video Captioning Challenge 2020**." arXiv preprint arXiv:2006.04058 (2020).
 
 Acknowledgements :
 1. https://in.mathworks.com/

@@ -21,7 +21,7 @@ Blockwise canny edge difference between the corresponding blocks of consecutive 
 
 **Application installer:** 
 
-  **For winddowa and mac:** [Available here!](https://drive.google.com/drive/folders/18AjsPxW48HiwY3cb23yBnYtzvsP22AJJ?usp=sharing) 
+  **For windows and mac:** [Available here!](https://drive.google.com/drive/folders/18AjsPxW48HiwY3cb23yBnYtzvsP22AJJ?usp=sharing) 
 
 
 

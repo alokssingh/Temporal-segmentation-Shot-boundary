@@ -1,5 +1,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-automatic-shot-boundary-detection/camera-shot-boundary-detection-on-trecvid)](https://paperswithcode.com/sota/camera-shot-boundary-detection-on-trecvid?p=a-novel-automatic-shot-boundary-detection)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-automatic-shot-boundary-detection/camera-shot-boundary-detection-on-msu-shot)](https://paperswithcode.com/sota/camera-shot-boundary-detection-on-msu-shot?p=a-novel-automatic-shot-boundary-detection)
+
 # A Novel Automatic Shot Boundary Detection Algorithm Robust to Illumination and Motion Effect
 A novel method for SBD using LBP-HF and Canny edge difference
 
